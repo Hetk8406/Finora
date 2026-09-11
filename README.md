@@ -4,6 +4,20 @@ Finora is a premium, offline-first Flutter application designed for accounting, 
 
 ---
 
+## 📸 Screenshots
+
+<p align="center">
+  <img src="Finora/finora-logo.png" alt="Finora Logo" width="180" />
+</p>
+
+<p align="center">
+  <img src="Finora/finora-page1.png" alt="Finora Dashboard / Estimate Screen" width="45%" />
+  &nbsp;
+  <img src="Finora/finora-page2.png" alt="Finora Details / Report Screen" width="45%" />
+</p>
+
+---
+
 ## 🚀 Key Features
 
 *   **Offline-First Architecture**: Built using `sqflite` for robust local database operations. Keep working even without an internet connection.
